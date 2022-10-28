@@ -1,0 +1,19 @@
+.bc{
+    background: #2f454f;
+    background-color: #2f454f;
+    /* color: #2f454f; */
+    font-size:medium;
+    line-height: 1.66;
+    font-weight: 600;
+    position: relative;
+    margin: 100px 0 100px;
+    border: none;
+    
+   
+}
+.hj{
+    padding-top: 200px;
+}
+.fwh{
+    font-size: 1rem;
+}

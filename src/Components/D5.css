@@ -1,0 +1,22 @@
+.bg5{
+background-color: rgba(59, 233, 233, 0.933);
+}
+/* .cont{
+    padding-top: 200px;
+} */
+.mi{
+    padding: 150px 0px 100px;
+}
+.ma {
+    /* margin-left: 300px;
+    padding-right: auto;
+    margin-right: 100px; */
+    margin-left: auto;
+    padding-left: auto;
+    padding-left: 300px;
+}
+.maa{
+    
+    margin-top: -200px;
+    margin-left: 150px;
+}

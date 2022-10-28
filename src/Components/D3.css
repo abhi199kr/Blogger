@@ -1,0 +1,17 @@
+.im{
+    /* background-color: #2f454f; */
+    color: #2f454f;
+    font-size: .275rem;
+    line-height: 1.66;
+    font-weight: 400;
+    /* width: 250px; */
+    
+    position: relative;
+}
+.im1{
+    margin-top: -400px;
+}
+.im2{
+    margin-top: -340px;
+    width: 250px;
+}

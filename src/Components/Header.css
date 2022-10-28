@@ -1,0 +1,25 @@
+.w{
+    width: 50px;;
+}
+.m{
+    margin-left: auto;
+}
+.btn-primary{
+    background-color: #ff8000;
+}
+.cr{
+    font-weight: 900;
+    font-size: smaller;
+}
+@media screen and (max-width: 480px) {
+    .cr{
+        font-weight: 600;
+        font-size: xx-small;
+        background-color: red;
+        color: red;
+    }
+  }
+.cre{
+    border: none;
+    font-weight: 500;
+}

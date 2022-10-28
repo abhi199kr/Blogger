@@ -1,0 +1,11 @@
+.bor{
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    
+}
+.text{
+  color: #cbd1d3;;
+}
+.text:hover{
+  color: white;
+}
