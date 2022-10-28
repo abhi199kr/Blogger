@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Blogger/static/css/main.7afd389f.css",
+    "main.js": "/Blogger/static/js/main.8f90e71f.js",
+    "static/js/787.c6af9339.chunk.js": "/Blogger/static/js/787.c6af9339.chunk.js",
+    "static/media/around.png": "/Blogger/static/media/around.f26418f7b19f2156cd7b.png",
+    "static/media/unnamed.png": "/Blogger/static/media/unnamed.d7ba23dfd0b7492f4246.png",
+    "static/media/vid.png": "/Blogger/static/media/vid.22fbffab4f30421b5c94.png",
+    "static/media/par.png": "/Blogger/static/media/par.1fc02fdce76689acbc58.png",
+    "static/media/w..png": "/Blogger/static/media/w..bc353902102d399f2efc.png",
+    "static/media/em.png": "/Blogger/static/media/em.aeff0ab945304cd7467c.png",
+    "static/media/map.png": "/Blogger/static/media/map.60cb939447f6338885ad.png",
+    "static/media/y..png": "/Blogger/static/media/y..f51a2dd3f4221e95af4c.png",
+    "static/media/wb.png": "/Blogger/static/media/wb.1743307552fb6b9f8d4c.png",
+    "static/media/logo.svg": "/Blogger/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Blogger/index.html",
+    "main.7afd389f.css.map": "/Blogger/static/css/main.7afd389f.css.map",
+    "main.8f90e71f.js.map": "/Blogger/static/js/main.8f90e71f.js.map",
+    "787.c6af9339.chunk.js.map": "/Blogger/static/js/787.c6af9339.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7afd389f.css",
+    "static/js/main.8f90e71f.js"
+  ]
+}
